@@ -1,6 +1,6 @@
 # 🧠 Charitable Donation Choice Parser & Analysis
 
-This repository contains code to parse structured profiles and donation options from LLM-generated outputs, converting them into a tabular format suitable for downstream analysis and modeling.
+This repository contains code to parse structured profiles and donation options from LLM-generated outputs, converting them into a tabular format suitable for downstream analysis and modeling. This project was developed by Md Hasibur Rahman, Ganesh Sapkota, and Raja Sunkara, with the guidance of Dr. Suman Maity as a course project in the "Introduction to NLP" course.
 
 ## 📂 Project Structure
 
