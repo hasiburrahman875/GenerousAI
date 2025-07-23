@@ -2,21 +2,6 @@
 
 This repository contains code to parse structured profiles and donation options from LLM-generated outputs, converting them into a tabular format suitable for downstream analysis and modeling. This project was developed by Md Hasibur Rahman, Ganesh Sapkota, and Raja Sunkara, with the guidance of Dr. Suman Maity as a course project in the "Introduction to NLP" course.
 
-## 📂 Project Structure
-
-```
-.
-├── llama3/
-│   ├── persona.py         # Script to generate user profiles
-│   ├── donation.py        # Script to generate donation options
-├── analysis/
-│   └── analysis.ipynb     # Notebook to analyze structured data
-├── donation_choices_llama3.csv  # Raw LLM output data
-├── structured_donation_choices_llama3_full.csv  # Final structured dataset
-├── parse_and_structure.py        # Main parsing script
-└── README.md
-```
-
 ## 📌 Overview
 
 This project:
